@@ -1,0 +1,401 @@
+order_id,customer_id,restaurant_id,city,order_time,items,amount,payment_mode,delivery_minutes,rating,status,month_no,weekday,hour,restaurant_name,cuisine
+QB1349,C020,R02,Kochi,2026-10-22 22:00:00,3,516.0,Upi,32.0,4.0,Delivered,10,Thursday,22,Dosa Corner,South Indian
+QB1002,C046,R02,Kozhikode,2026-10-05 17:00:00,3,457.0,Wallet,40.0,4.0,Delivered,10,Monday,17,Dosa Corner,South Indian
+QB1393,C058,R01,Trivandrum,2026-08-24 18:00:00,1,215.0,Wallet,31.0,5.0,Delivered,8,Monday,18,Spice Garden,North Indian
+QB1120,C018,R06,Kochi,2026-10-29 17:00:00,3,563.0,Upi,39.0,4.0,Delivered,10,Thursday,17,Green Bowl,Healthy
+QB1155,C021,R05,Kozhikode,2026-09-19 18:00:00,5,1075.0,Upi,,,Cancelled,9,Saturday,18,Biryani House,Biryani
+QB1004,C035,R09,Kochi,2026-10-23 15:00:00,4,659.0,Upi,44.0,4.0,Delivered,10,Friday,15,Burger Lane,Fast Food
+QB1276,C054,R04,Kochi,2026-09-18 13:00:00,3,431.0,Wallet,27.0,1.0,Delivered,9,Friday,13,Pizza Point,Italian
+QB1232,C061,R02,Trivandrum,2026-08-09 18:00:00,4,573.0,Cash,,,Cancelled,8,Sunday,18,Dosa Corner,South Indian
+QB1080,C075,R02,Kochi,2026-09-11 12:00:00,5,495.0,Cash,53.0,4.0,Delivered,9,Friday,12,Dosa Corner,South Indian
+QB1047,C029,R08,Kochi,2026-08-09 21:00:00,6,994.0,Card,36.0,5.0,Delivered,8,Sunday,21,Malabar Kitchen,South Indian
+QB1057,C057,R03,Thrissur,2026-10-26 18:00:00,4,406.0,Cash,44.0,5.0,Delivered,10,Monday,18,Wok Express,Chinese
+QB1032,C020,R05,Trivandrum,2026-09-08 20:00:00,3,387.0,Card,34.5,4.0,Delivered,9,Tuesday,20,Biryani House,Biryani
+QB1097,C021,R05,Trivandrum,2026-09-20 19:00:00,6,769.0,Upi,39.0,4.0,Delivered,9,Sunday,19,Biryani House,Biryani
+QB1018,C014,R10,Trivandrum,2026-10-02 22:00:00,3,411.0,Card,37.0,3.0,Delivered,10,Friday,22,Noodle Hub,Chinese
+QB1331,C030,R08,Trivandrum,2026-08-28 22:00:00,1,221.0,Card,33.0,4.0,Delivered,8,Friday,22,Malabar Kitchen,South Indian
+QB1103,C022,R08,Kozhikode,2026-08-24 14:00:00,4,641.0,Upi,39.0,4.0,Delivered,8,Monday,14,Malabar Kitchen,South Indian
+QB1309,C009,R07,Kozhikode,2026-08-12 14:00:00,5,980.0,Card,43.0,3.0,Delivered,8,Wednesday,14,Sweet Tooth,Desserts
+QB1017,C035,R07,Kochi,2026-09-08 14:00:00,1,163.0,Card,,,Cancelled,9,Tuesday,14,Sweet Tooth,Desserts
+QB1095,C053,R05,Kochi,2026-08-11 17:00:00,4,790.0,Card,47.0,4.0,Delivered,8,Tuesday,17,Biryani House,Biryani
+QB1212,C060,R01,Kozhikode,2026-09-23 12:00:00,6,1152.0,Upi,38.0,5.0,Delivered,9,Wednesday,12,Spice Garden,North Indian
+QB1127,C037,R01,Kozhikode,2026-09-11 15:00:00,5,1109.0,Card,28.0,2.0,Delivered,9,Friday,15,Spice Garden,North Indian
+QB1055,C054,R01,Kochi,2026-08-28 17:00:00,3,476.0,Upi,24.0,5.0,Delivered,8,Friday,17,Spice Garden,North Indian
+QB1327,C059,R04,Trivandrum,2026-10-26 13:00:00,5,653.0,Upi,40.0,3.0,Delivered,10,Monday,13,Pizza Point,Italian
+QB1236,C026,R08,Trivandrum,2026-08-09 10:00:00,4,819.0,Upi,44.0,5.0,Delivered,8,Sunday,10,Malabar Kitchen,South Indian
+QB1287,C048,R03,Trivandrum,2026-10-25 18:00:00,2,253.0,Upi,36.0,4.0,Delivered,10,Sunday,18,Wok Express,Chinese
+QB1098,C075,R01,Kochi,2026-08-20 13:00:00,1,132.0,Upi,36.0,1.0,Delivered,8,Thursday,13,Spice Garden,North Indian
+QB1300,C003,R08,Trivandrum,2026-10-01 12:00:00,1,208.0,Cash,32.0,5.0,Delivered,10,Thursday,12,Malabar Kitchen,South Indian
+QB1325,C076,R02,Kochi,2026-08-06 11:00:00,5,1072.0,Cash,42.0,5.0,Delivered,8,Thursday,11,Dosa Corner,South Indian
+QB1255,C071,R04,Kochi,2026-09-02 18:00:00,5,761.0,Card,41.0,4.0,Delivered,9,Wednesday,18,Pizza Point,Italian
+QB1216,C036,R05,Kochi,2026-08-22 20:00:00,2,395.0,Upi,51.0,1.0,Delivered,8,Saturday,20,Biryani House,Biryani
+QB1311,C072,R07,Kochi,2026-10-14 20:00:00,6,1156.0,Card,39.0,3.0,Delivered,10,Wednesday,20,Sweet Tooth,Desserts
+QB1294,C046,R09,Trivandrum,2026-10-19 13:00:00,3,667.0,Upi,,,Cancelled,10,Monday,13,Burger Lane,Fast Food
+QB1194,C021,R01,Kozhikode,2026-08-24 22:00:00,6,890.0,Upi,,,Cancelled,8,Monday,22,Spice Garden,North Indian
+QB1179,C042,R09,Kochi,2026-08-11 21:00:00,5,1123.0,Wallet,25.0,4.0,Delivered,8,Tuesday,21,Burger Lane,Fast Food
+QB1231,C035,R02,Trivandrum,2026-10-10 21:00:00,1,216.0,Upi,25.0,3.0,Delivered,10,Saturday,21,Dosa Corner,South Indian
+QB1323,C046,R09,Trivandrum,2026-10-10 19:00:00,3,536.0,Upi,50.0,4.0,Delivered,10,Saturday,19,Burger Lane,Fast Food
+QB1293,C059,R05,Kozhikode,2026-09-25 11:00:00,6,1082.0,Upi,36.0,4.0,Delivered,9,Friday,11,Biryani House,Biryani
+QB1256,C002,R10,Kochi,2026-10-18 22:00:00,4,781.0,Card,48.0,4.0,Delivered,10,Sunday,22,Noodle Hub,Chinese
+QB1398,C076,R11,Kochi,2026-10-20 20:00:00,1,184.0,Upi,29.0,,Delivered,10,Tuesday,20,Curry Leaf,North Indian
+QB1023,C041,R11,Kochi,2026-08-27 11:00:00,3,602.0,Upi,30.0,4.0,Delivered,8,Thursday,11,Curry Leaf,North Indian
+QB1015,C057,R01,Kochi,2026-09-08 20:00:00,2,271.0,Card,34.0,4.0,Delivered,9,Tuesday,20,Spice Garden,North Indian
+QB1081,C004,R02,Kochi,2026-08-13 21:00:00,3,425.0,Card,40.0,5.0,Delivered,8,Thursday,21,Dosa Corner,South Indian
+QB1185,C079,R02,Trivandrum,2026-08-27 13:00:00,1,227.0,Upi,29.0,4.0,Delivered,8,Thursday,13,Dosa Corner,South Indian
+QB1122,C005,R08,Thrissur,2026-09-04 15:00:00,1,251.0,Wallet,41.0,4.0,Delivered,9,Friday,15,Malabar Kitchen,South Indian
+QB1372,C041,R02,Thrissur,2026-09-16 12:00:00,1,242.0,Wallet,42.0,,Delivered,9,Wednesday,12,Dosa Corner,South Indian
+QB1358,C066,R04,Kochi,2026-10-11 15:00:00,3,503.0,Card,35.0,5.0,Delivered,10,Sunday,15,Pizza Point,Italian
+QB1031,C028,R03,Kozhikode,2026-08-23 16:00:00,6,940.0,Upi,34.0,1.0,Delivered,8,Sunday,16,Wok Express,Chinese
+QB1365,C043,R01,Kozhikode,2026-10-22 18:00:00,1,188.0,Card,34.5,5.0,Delivered,10,Thursday,18,Spice Garden,North Indian
+QB1039,C028,R04,Thrissur,2026-09-05 21:00:00,3,576.0,Card,32.0,5.0,Delivered,9,Saturday,21,Pizza Point,Italian
+QB1089,C010,R04,Kochi,2026-10-17 22:00:00,3,647.0,Upi,,,Cancelled,10,Saturday,22,Pizza Point,Italian
+QB1139,C069,R04,Kochi,2026-10-24 13:00:00,5,746.0,Card,43.0,3.0,Delivered,10,Saturday,13,Pizza Point,Italian
+QB1268,C060,R05,Kochi,2026-10-06 18:00:00,3,430.0,Cash,,,Cancelled,10,Tuesday,18,Biryani House,Biryani
+QB1277,C076,R06,Kochi,2026-08-05 10:00:00,1,177.0,Card,42.0,5.0,Delivered,8,Wednesday,10,Green Bowl,Healthy
+QB1109,C044,R09,Trivandrum,2026-09-08 22:00:00,6,820.0,Upi,39.0,4.0,Delivered,9,Tuesday,22,Burger Lane,Fast Food
+QB1379,C047,R08,Kochi,2026-08-19 11:00:00,6,1308.0,Cash,46.0,4.0,Delivered,8,Wednesday,11,Malabar Kitchen,South Indian
+QB1291,C023,R10,Trivandrum,2026-09-06 21:00:00,2,428.0,Card,41.0,,Delivered,9,Sunday,21,Noodle Hub,Chinese
+QB1322,C037,R05,Thrissur,2026-08-26 14:00:00,4,558.0,Wallet,40.0,4.0,Delivered,8,Wednesday,14,Biryani House,Biryani
+QB1317,C043,R12,Trivandrum,2026-09-24 15:00:00,3,491.0,Upi,40.0,5.0,Delivered,9,Thursday,15,Fresh Juice Bar,Healthy
+QB1072,C049,R01,Kochi,2026-09-21 21:00:00,3,563.0,Card,34.0,4.0,Delivered,9,Monday,21,Spice Garden,North Indian
+QB1308,C069,R03,Kochi,2026-08-06 16:00:00,6,622.0,Upi,47.0,4.0,Delivered,8,Thursday,16,Wok Express,Chinese
+QB1090,C039,R07,Trivandrum,2026-09-12 19:00:00,6,723.0,Wallet,50.0,4.0,Delivered,9,Saturday,19,Sweet Tooth,Desserts
+QB1071,C078,R04,Trivandrum,2026-08-29 19:00:00,6,1163.0,Upi,21.0,5.0,Delivered,8,Saturday,19,Pizza Point,Italian
+QB1271,C026,R03,Trivandrum,2026-09-11 16:00:00,2,296.0,Upi,26.0,3.0,Delivered,9,Friday,16,Wok Express,Chinese
+QB1042,C052,R02,Kozhikode,2026-08-28 20:00:00,5,534.0,Card,,,Cancelled,8,Friday,20,Dosa Corner,South Indian
+QB1165,C007,R12,Kochi,2026-10-14 18:00:00,3,661.0,Upi,23.0,4.0,Delivered,10,Wednesday,18,Fresh Juice Bar,Healthy
+QB1283,C029,R05,Kochi,2026-09-22 14:00:00,4,877.0,Upi,32.0,5.0,Delivered,9,Tuesday,14,Biryani House,Biryani
+QB1013,C013,R07,Kochi,2026-09-22 21:00:00,3,571.0,Wallet,,,Cancelled,9,Tuesday,21,Sweet Tooth,Desserts
+QB1257,C019,R09,Trivandrum,2026-10-13 14:00:00,4,830.0,Upi,24.0,5.0,Delivered,10,Tuesday,14,Burger Lane,Fast Food
+QB1036,C061,R02,Trivandrum,2026-09-25 14:00:00,4,676.0,Wallet,38.0,5.0,Delivered,9,Friday,14,Dosa Corner,South Indian
+QB1069,C044,R10,Kozhikode,2026-09-23 16:00:00,2,392.0,Card,30.0,4.0,Delivered,9,Wednesday,16,Noodle Hub,Chinese
+QB1171,C038,R03,Trivandrum,2026-09-21 22:00:00,5,641.0,Card,27.0,3.0,Delivered,9,Monday,22,Wok Express,Chinese
+QB1180,C072,R08,Thrissur,2026-09-09 18:00:00,4,514.0,Upi,19.0,4.0,Delivered,9,Wednesday,18,Malabar Kitchen,South Indian
+QB1160,C020,R02,Kozhikode,2026-09-28 12:00:00,2,295.0,Upi,51.0,5.0,Delivered,9,Monday,12,Dosa Corner,South Indian
+QB1150,C069,R03,Kochi,2026-10-22 15:00:00,4,559.0,Cash,41.0,3.0,Delivered,10,Thursday,15,Wok Express,Chinese
+QB1021,C038,R08,Kozhikode,2026-09-29 19:00:00,3,328.0,Upi,23.0,2.0,Delivered,9,Tuesday,19,Malabar Kitchen,South Indian
+QB1166,C004,R02,Trivandrum,2026-09-28 20:00:00,1,263.0,Upi,22.0,4.0,Delivered,9,Monday,20,Dosa Corner,South Indian
+QB1074,C034,R09,Kochi,2026-10-12 20:00:00,1,170.0,Card,37.0,3.0,Delivered,10,Monday,20,Burger Lane,Fast Food
+QB1342,C019,R02,Kozhikode,2026-10-08 12:00:00,2,406.0,Cash,40.0,,Delivered,10,Thursday,12,Dosa Corner,South Indian
+QB1159,C054,R02,Trivandrum,2026-09-03 14:00:00,5,1018.0,Cash,,,Cancelled,9,Thursday,14,Dosa Corner,South Indian
+QB1357,C013,R07,Trivandrum,2026-09-14 19:00:00,1,148.0,Card,31.0,4.0,Delivered,9,Monday,19,Sweet Tooth,Desserts
+QB1235,C029,R05,Trivandrum,2026-08-06 10:00:00,5,732.0,Upi,24.0,3.0,Delivered,8,Thursday,10,Biryani House,Biryani
+QB1310,C030,R04,Trivandrum,2026-08-26 20:00:00,4,631.0,Upi,33.0,4.0,Delivered,8,Wednesday,20,Pizza Point,Italian
+QB1354,C060,R03,Kochi,2026-09-27 20:00:00,3,390.0,Upi,,,Cancelled,9,Sunday,20,Wok Express,Chinese
+QB1044,C069,R04,Trivandrum,2026-09-24 19:00:00,5,865.0,Upi,24.0,5.0,Delivered,9,Thursday,19,Pizza Point,Italian
+QB1233,C022,R11,Kochi,2026-10-18 21:00:00,3,481.0,Card,40.0,4.0,Delivered,10,Sunday,21,Curry Leaf,North Indian
+QB1181,C026,R10,Kochi,2026-10-18 14:00:00,4,648.0,Card,22.0,4.0,Delivered,10,Sunday,14,Noodle Hub,Chinese
+QB1281,C031,R03,Thrissur,2026-09-04 21:00:00,5,775.0,Upi,23.0,4.0,Delivered,9,Friday,21,Wok Express,Chinese
+QB1338,C048,R05,Trivandrum,2026-09-12 20:00:00,4,559.0,Upi,28.0,1.0,Delivered,9,Saturday,20,Biryani House,Biryani
+QB1053,C020,R02,Kochi,2026-08-03 21:00:00,3,471.0,Upi,,,Cancelled,8,Monday,21,Dosa Corner,South Indian
+QB1099,C006,R10,Trivandrum,2026-10-08 22:00:00,5,871.0,Card,35.0,4.0,Delivered,10,Thursday,22,Noodle Hub,Chinese
+QB1138,C053,R03,Kozhikode,2026-09-25 21:00:00,4,464.0,Cash,43.0,3.0,Delivered,9,Friday,21,Wok Express,Chinese
+QB1124,C078,R11,Kochi,2026-09-28 16:00:00,5,774.0,Cash,41.0,1.0,Delivered,9,Monday,16,Curry Leaf,North Indian
+QB1162,C043,R12,Kochi,2026-10-19 17:00:00,6,1305.0,Upi,52.0,3.0,Delivered,10,Monday,17,Fresh Juice Bar,Healthy
+QB1025,C025,R01,Trivandrum,2026-09-05 14:00:00,6,691.0,Wallet,34.5,2.0,Delivered,9,Saturday,14,Spice Garden,North Indian
+QB1106,C025,R11,Kochi,2026-09-16 13:00:00,5,775.0,Card,,,Cancelled,9,Wednesday,13,Curry Leaf,North Indian
+QB1062,C021,R05,Kochi,2026-08-29 22:00:00,1,147.0,Card,42.0,4.0,Delivered,8,Saturday,22,Biryani House,Biryani
+QB1207,C047,R04,Trivandrum,2026-09-19 18:00:00,4,711.0,Upi,23.0,1.0,Delivered,9,Saturday,18,Pizza Point,Italian
+QB1110,C049,R12,Kochi,2026-10-12 15:00:00,6,777.0,Upi,,,Cancelled,10,Monday,15,Fresh Juice Bar,Healthy
+QB1189,C039,R06,Trivandrum,2026-08-27 18:00:00,2,267.0,Cash,34.5,3.0,Delivered,8,Thursday,18,Green Bowl,Healthy
+QB1206,C042,R10,Trivandrum,2026-10-01 13:00:00,3,443.0,Upi,,,Cancelled,10,Thursday,13,Noodle Hub,Chinese
+QB1105,C014,R10,Kochi,2026-10-29 10:00:00,1,183.0,Card,43.0,4.0,Delivered,10,Thursday,10,Noodle Hub,Chinese
+QB1217,C070,R04,Kochi,2026-10-28 19:00:00,3,701.0,Upi,28.0,3.0,Delivered,10,Wednesday,19,Pizza Point,Italian
+QB1220,C072,R08,Kozhikode,2026-08-04 11:00:00,6,737.0,Upi,47.0,3.0,Delivered,8,Tuesday,11,Malabar Kitchen,South Indian
+QB1252,C044,R05,Kozhikode,2026-09-13 10:00:00,4,686.0,Cash,43.0,5.0,Delivered,9,Sunday,10,Biryani House,Biryani
+QB1020,C037,R04,Trivandrum,2026-10-26 14:00:00,5,738.0,Upi,36.0,4.0,Delivered,10,Monday,14,Pizza Point,Italian
+QB1197,C064,R09,Kochi,2026-10-07 20:00:00,5,604.0,Wallet,37.0,,Delivered,10,Wednesday,20,Burger Lane,Fast Food
+QB1172,C046,R06,Kochi,2026-09-09 20:00:00,4,685.0,Upi,35.0,,Delivered,9,Wednesday,20,Green Bowl,Healthy
+QB1009,C039,R09,Trivandrum,2026-08-13 22:00:00,5,944.0,Wallet,30.0,2.0,Delivered,8,Thursday,22,Burger Lane,Fast Food
+QB1314,C012,R05,Trivandrum,2026-08-31 13:00:00,5,1016.0,Wallet,14.0,5.0,Delivered,8,Monday,13,Biryani House,Biryani
+QB1054,C036,R02,Trivandrum,2026-10-03 10:00:00,4,420.0,Cash,28.0,5.0,Delivered,10,Saturday,10,Dosa Corner,South Indian
+QB1267,C041,R06,Kochi,2026-08-27 17:00:00,2,317.0,Upi,34.0,4.0,Delivered,8,Thursday,17,Green Bowl,Healthy
+QB1286,C075,R10,Trivandrum,2026-08-10 14:00:00,6,1106.0,Upi,44.0,5.0,Delivered,8,Monday,14,Noodle Hub,Chinese
+QB1068,C023,R09,Kozhikode,2026-09-19 12:00:00,3,375.0,Cash,34.0,5.0,Delivered,9,Saturday,12,Burger Lane,Fast Food
+QB1132,C055,R08,Kozhikode,2026-10-16 17:00:00,1,176.0,Card,32.0,4.0,Delivered,10,Friday,17,Malabar Kitchen,South Indian
+QB1060,C050,R07,Trivandrum,2026-10-01 10:00:00,3,520.0,Wallet,38.0,4.0,Delivered,10,Thursday,10,Sweet Tooth,Desserts
+QB1034,C047,R01,Kochi,2026-09-06 20:00:00,1,185.0,Card,,,Cancelled,9,Sunday,20,Spice Garden,North Indian
+QB1336,C007,R03,Trivandrum,2026-09-30 19:00:00,4,486.0,Cash,41.0,5.0,Delivered,9,Wednesday,19,Wok Express,Chinese
+QB1377,C044,R12,Kochi,2026-08-08 12:00:00,2,256.0,Cash,42.0,5.0,Delivered,8,Saturday,12,Fresh Juice Bar,Healthy
+QB1211,C045,R09,Kochi,2026-10-17 18:00:00,3,354.0,Cash,28.0,5.0,Delivered,10,Saturday,18,Burger Lane,Fast Food
+QB1088,C046,R09,Trivandrum,2026-10-20 21:00:00,4,490.0,Wallet,,,Cancelled,10,Tuesday,21,Burger Lane,Fast Food
+QB1273,C017,R12,Kochi,2026-10-19 12:00:00,3,619.0,Cash,30.0,3.0,Delivered,10,Monday,12,Fresh Juice Bar,Healthy
+QB1199,C076,R09,Thrissur,2026-09-10 18:00:00,1,245.0,Cash,36.0,3.0,Delivered,9,Thursday,18,Burger Lane,Fast Food
+QB1369,C030,R02,Kozhikode,2026-08-24 16:00:00,6,1354.0,Card,,,Cancelled,8,Monday,16,Dosa Corner,South Indian
+QB1367,C017,R06,Kozhikode,2026-09-05 18:00:00,2,304.0,Card,28.0,5.0,Delivered,9,Saturday,18,Green Bowl,Healthy
+QB1101,C015,R04,Kochi,2026-10-05 19:00:00,1,182.0,Upi,48.0,3.0,Delivered,10,Monday,19,Pizza Point,Italian
+QB1010,C008,R11,Kochi,2026-10-27 15:00:00,2,416.0,Cash,33.0,5.0,Delivered,10,Tuesday,15,Curry Leaf,North Indian
+QB1374,C037,R01,Kozhikode,2026-08-12 18:00:00,3,644.0,Upi,29.0,1.0,Delivered,8,Wednesday,18,Spice Garden,North Indian
+QB1096,C058,R04,Trivandrum,2026-10-04 19:00:00,4,826.0,Upi,47.0,4.0,Delivered,10,Sunday,19,Pizza Point,Italian
+QB1282,C001,R11,Kochi,2026-09-15 18:00:00,2,365.0,Upi,,,Cancelled,9,Tuesday,18,Curry Leaf,North Indian
+QB1324,C076,R08,Kochi,2026-08-28 22:00:00,4,750.0,Cash,37.0,,Delivered,8,Friday,22,Malabar Kitchen,South Indian
+QB1242,C056,R10,Kochi,2026-10-20 15:00:00,2,396.0,Card,20.0,4.0,Delivered,10,Tuesday,15,Noodle Hub,Chinese
+QB1175,C065,R05,Kochi,2026-09-03 20:00:00,2,319.0,Wallet,18.0,3.0,Delivered,9,Thursday,20,Biryani House,Biryani
+QB1352,C045,R05,Kochi,2026-08-22 13:00:00,3,379.0,Cash,41.0,2.0,Delivered,8,Saturday,13,Biryani House,Biryani
+QB1351,C041,R01,Trivandrum,2026-10-12 13:00:00,1,178.0,Upi,26.0,3.0,Delivered,10,Monday,13,Spice Garden,North Indian
+QB1249,C050,R04,Kochi,2026-10-23 16:00:00,2,471.0,Upi,43.0,5.0,Delivered,10,Friday,16,Pizza Point,Italian
+QB1295,C073,R05,Trivandrum,2026-10-19 14:00:00,5,548.0,Cash,30.0,4.0,Delivered,10,Monday,14,Biryani House,Biryani
+QB1265,C072,R08,Kochi,2026-09-28 15:00:00,2,457.0,Upi,35.0,4.0,Delivered,9,Monday,15,Malabar Kitchen,South Indian
+QB1030,C029,R04,Kochi,2026-10-25 10:00:00,4,549.0,Card,49.0,5.0,Delivered,10,Sunday,10,Pizza Point,Italian
+QB1343,C020,R02,Kochi,2026-08-23 12:00:00,5,982.0,Cash,,,Cancelled,8,Sunday,12,Dosa Corner,South Indian
+QB1193,C005,R05,Trivandrum,2026-08-08 10:00:00,5,689.0,Wallet,20.0,5.0,Delivered,8,Saturday,10,Biryani House,Biryani
+QB1037,C018,R08,Kochi,2026-10-20 22:00:00,1,219.0,Cash,22.0,5.0,Delivered,10,Tuesday,22,Malabar Kitchen,South Indian
+QB1070,C047,R08,Kochi,2026-08-10 11:00:00,6,1180.0,Upi,38.0,4.0,Delivered,8,Monday,11,Malabar Kitchen,South Indian
+QB1038,C022,R10,Kochi,2026-09-11 20:00:00,1,162.0,Card,37.0,4.0,Delivered,9,Friday,20,Noodle Hub,Chinese
+QB1307,C023,R08,Thrissur,2026-08-26 22:00:00,6,1311.0,Card,34.0,5.0,Delivered,8,Wednesday,22,Malabar Kitchen,South Indian
+QB1123,C047,R02,Kochi,2026-10-18 22:00:00,5,759.0,Wallet,62.0,1.0,Delivered,10,Sunday,22,Dosa Corner,South Indian
+QB1345,C013,R03,Kochi,2026-09-06 14:00:00,5,649.0,Cash,,,Cancelled,9,Sunday,14,Wok Express,Chinese
+QB1364,C007,R08,Trivandrum,2026-09-03 13:00:00,1,257.0,Wallet,27.0,5.0,Delivered,9,Thursday,13,Malabar Kitchen,South Indian
+QB1143,C053,R05,Kochi,2026-08-03 11:00:00,3,633.0,Upi,55.0,5.0,Delivered,8,Monday,11,Biryani House,Biryani
+QB1299,C074,R03,Kochi,2026-09-12 11:00:00,1,213.0,Wallet,37.0,3.0,Delivered,9,Saturday,11,Wok Express,Chinese
+QB1167,C065,R05,Trivandrum,2026-10-24 22:00:00,2,320.0,Upi,35.0,4.0,Delivered,10,Saturday,22,Biryani House,Biryani
+QB1200,C005,R08,Thrissur,2026-08-19 13:00:00,1,187.0,Upi,36.0,5.0,Delivered,8,Wednesday,13,Malabar Kitchen,South Indian
+QB1051,C067,R09,Kochi,2026-10-29 10:00:00,5,726.0,Upi,31.0,4.0,Delivered,10,Thursday,10,Burger Lane,Fast Food
+QB1218,C018,R08,Kochi,2026-08-04 11:00:00,6,787.0,Upi,44.0,4.0,Delivered,8,Tuesday,11,Malabar Kitchen,South Indian
+QB1192,C066,R02,Kozhikode,2026-10-27 19:00:00,6,1111.0,Card,29.0,5.0,Delivered,10,Tuesday,19,Dosa Corner,South Indian
+QB1195,C006,R12,Kozhikode,2026-08-11 20:00:00,6,778.0,Upi,30.0,5.0,Delivered,8,Tuesday,20,Fresh Juice Bar,Healthy
+QB1083,C052,R07,Kochi,2026-09-18 11:00:00,2,488.0,Wallet,41.0,1.0,Delivered,9,Friday,11,Sweet Tooth,Desserts
+QB1394,C078,R02,Kochi,2026-09-29 17:00:00,5,867.0,Card,30.0,5.0,Delivered,9,Tuesday,17,Dosa Corner,South Indian
+QB1145,C057,R02,Kochi,2026-10-29 15:00:00,2,228.0,Upi,32.0,4.0,Delivered,10,Thursday,15,Dosa Corner,South Indian
+QB1228,C046,R05,Kochi,2026-09-18 19:00:00,4,562.0,Card,32.0,1.0,Delivered,9,Friday,19,Biryani House,Biryani
+QB1156,C069,R04,Kochi,2026-10-09 12:00:00,5,927.0,Upi,30.0,5.0,Delivered,10,Friday,12,Pizza Point,Italian
+QB1272,C051,R05,Kochi,2026-09-07 20:00:00,3,342.0,Upi,25.0,5.0,Delivered,9,Monday,20,Biryani House,Biryani
+QB1244,C071,R07,Thrissur,2026-09-28 15:00:00,2,368.0,Cash,44.0,4.0,Delivered,9,Monday,15,Sweet Tooth,Desserts
+QB1152,C009,R03,Kochi,2026-08-28 11:00:00,3,305.0,Upi,30.0,5.0,Delivered,8,Friday,11,Wok Express,Chinese
+QB1188,C071,R11,Kozhikode,2026-10-12 13:00:00,2,427.0,Card,29.0,,Delivered,10,Monday,13,Curry Leaf,North Indian
+QB1078,C069,R08,Trivandrum,2026-09-08 17:00:00,4,634.0,Upi,,,Cancelled,9,Tuesday,17,Malabar Kitchen,South Indian
+QB1140,C016,R02,Trivandrum,2026-10-22 14:00:00,3,645.0,Wallet,31.0,5.0,Delivered,10,Thursday,14,Dosa Corner,South Indian
+QB1288,C075,R05,Trivandrum,2026-09-16 18:00:00,4,900.0,Card,34.0,3.0,Delivered,9,Wednesday,18,Biryani House,Biryani
+QB1254,C062,R10,Kochi,2026-09-10 14:00:00,2,423.0,Upi,27.0,5.0,Delivered,9,Thursday,14,Noodle Hub,Chinese
+QB1313,C065,R05,Kochi,2026-08-27 11:00:00,3,492.0,Upi,,,Cancelled,8,Thursday,11,Biryani House,Biryani
+QB1363,C013,R11,Trivandrum,2026-09-15 13:00:00,5,902.0,Card,,,Cancelled,9,Tuesday,13,Curry Leaf,North Indian
+QB1386,C047,R01,Kozhikode,2026-10-14 17:00:00,4,504.0,Upi,26.0,5.0,Delivered,10,Wednesday,17,Spice Garden,North Indian
+QB1104,C042,R04,Trivandrum,2026-10-12 21:00:00,6,958.0,Wallet,37.0,2.0,Delivered,10,Monday,21,Pizza Point,Italian
+QB1050,C078,R01,Kochi,2026-08-02 13:00:00,5,662.0,Cash,23.0,4.0,Delivered,8,Sunday,13,Spice Garden,North Indian
+QB1370,C035,R12,Kochi,2026-10-24 14:00:00,1,198.0,Upi,43.0,4.0,Delivered,10,Saturday,14,Fresh Juice Bar,Healthy
+QB1381,C027,R06,Kochi,2026-08-08 16:00:00,5,684.0,Upi,32.0,4.0,Delivered,8,Saturday,16,Green Bowl,Healthy
+QB1100,C003,R05,Kozhikode,2026-09-18 15:00:00,3,505.0,Upi,,,Cancelled,9,Friday,15,Biryani House,Biryani
+QB1344,C026,R02,Trivandrum,2026-10-17 18:00:00,1,159.0,Wallet,57.0,4.0,Delivered,10,Saturday,18,Dosa Corner,South Indian
+QB1259,C009,R08,Kochi,2026-09-19 18:00:00,1,136.0,Upi,21.0,3.0,Delivered,9,Saturday,18,Malabar Kitchen,South Indian
+QB1304,C039,R09,Kochi,2026-08-03 14:00:00,6,1276.0,Wallet,34.5,4.0,Delivered,8,Monday,14,Burger Lane,Fast Food
+QB1133,C006,R05,Kochi,2026-08-29 15:00:00,3,675.0,Upi,25.0,5.0,Delivered,8,Saturday,15,Biryani House,Biryani
+QB1229,C001,R01,Trivandrum,2026-10-19 18:00:00,6,1219.0,Cash,46.0,5.0,Delivered,10,Monday,18,Spice Garden,North Indian
+QB1341,C023,R07,Kochi,2026-09-14 18:00:00,6,694.0,Card,28.0,5.0,Delivered,9,Monday,18,Sweet Tooth,Desserts
+QB1339,C016,R02,Kozhikode,2026-08-12 19:00:00,6,1047.0,Upi,48.0,,Delivered,8,Wednesday,19,Dosa Corner,South Indian
+QB1134,C032,R01,Kozhikode,2026-10-11 19:00:00,2,336.0,Card,21.0,4.0,Delivered,10,Sunday,19,Spice Garden,North Indian
+QB1264,C023,R06,Trivandrum,2026-08-05 10:00:00,5,1010.0,Card,28.0,4.0,Delivered,8,Wednesday,10,Green Bowl,Healthy
+QB1094,C056,R08,Trivandrum,2026-10-06 15:00:00,4,515.0,Upi,,,Cancelled,10,Tuesday,15,Malabar Kitchen,South Indian
+QB1131,C049,R03,Thrissur,2026-10-22 16:00:00,4,697.0,Upi,28.0,5.0,Delivered,10,Thursday,16,Wok Express,Chinese
+QB1222,C050,R06,Kochi,2026-10-09 15:00:00,1,177.0,Upi,52.0,5.0,Delivered,10,Friday,15,Green Bowl,Healthy
+QB1359,C046,R05,Trivandrum,2026-10-29 15:00:00,2,411.0,Upi,22.0,4.0,Delivered,10,Thursday,15,Biryani House,Biryani
+QB1005,C021,R03,Kozhikode,2026-08-02 19:00:00,5,618.0,Cash,31.0,,Delivered,8,Sunday,19,Wok Express,Chinese
+QB1303,C052,R08,Trivandrum,2026-09-13 13:00:00,2,354.0,Card,37.0,2.0,Delivered,9,Sunday,13,Malabar Kitchen,South Indian
+QB1258,C079,R05,Kochi,2026-08-26 11:00:00,2,350.0,Wallet,12.0,5.0,Delivered,8,Wednesday,11,Biryani House,Biryani
+QB1026,C051,R07,Kochi,2026-10-24 20:00:00,3,550.0,Upi,43.0,4.0,Delivered,10,Saturday,20,Sweet Tooth,Desserts
+QB1223,C029,R06,Trivandrum,2026-08-09 14:00:00,1,224.0,Upi,35.0,4.0,Delivered,8,Sunday,14,Green Bowl,Healthy
+QB1091,C053,R02,Kozhikode,2026-09-05 12:00:00,3,595.0,Upi,37.0,5.0,Delivered,9,Saturday,12,Dosa Corner,South Indian
+QB1115,C040,R02,Kochi,2026-08-16 12:00:00,1,208.0,Card,40.0,1.0,Delivered,8,Sunday,12,Dosa Corner,South Indian
+QB1075,C006,R02,Kochi,2026-10-12 18:00:00,6,971.0,Upi,44.0,5.0,Delivered,10,Monday,18,Dosa Corner,South Indian
+QB1280,C028,R04,Kochi,2026-09-08 20:00:00,4,700.0,Upi,22.0,3.0,Delivered,9,Tuesday,20,Pizza Point,Italian
+QB1196,C037,R06,Thrissur,2026-09-02 11:00:00,1,158.0,Card,32.0,5.0,Delivered,9,Wednesday,11,Green Bowl,Healthy
+QB1270,C005,R03,Kozhikode,2026-08-09 10:00:00,4,530.0,Card,41.0,4.0,Delivered,8,Sunday,10,Wok Express,Chinese
+QB1301,C060,R09,Kozhikode,2026-10-13 14:00:00,6,893.0,Card,31.0,4.0,Delivered,10,Tuesday,14,Burger Lane,Fast Food
+QB1118,C042,R02,Kochi,2026-09-21 15:00:00,2,317.0,Cash,23.0,4.0,Delivered,9,Monday,15,Dosa Corner,South Indian
+QB1077,C044,R05,Trivandrum,2026-10-12 10:00:00,6,891.0,Upi,34.5,5.0,Delivered,10,Monday,10,Biryani House,Biryani
+QB1073,C012,R05,Kozhikode,2026-08-10 18:00:00,1,122.0,Upi,38.0,5.0,Delivered,8,Monday,18,Biryani House,Biryani
+QB1008,C050,R02,Kozhikode,2026-10-06 18:00:00,4,638.0,Upi,27.0,5.0,Delivered,10,Tuesday,18,Dosa Corner,South Indian
+QB1045,C046,R05,Kozhikode,2026-09-30 11:00:00,5,657.0,Wallet,50.0,4.0,Delivered,9,Wednesday,11,Biryani House,Biryani
+QB1006,C010,R10,Kochi,2026-08-25 19:00:00,4,804.0,Upi,31.0,3.0,Delivered,8,Tuesday,19,Noodle Hub,Chinese
+QB1027,C035,R02,Trivandrum,2026-09-11 22:00:00,5,1025.0,Card,41.0,5.0,Delivered,9,Friday,22,Dosa Corner,South Indian
+QB1003,C027,R07,Trivandrum,2026-08-13 10:00:00,5,902.0,Cash,29.0,5.0,Delivered,8,Thursday,10,Sweet Tooth,Desserts
+QB1269,C025,R02,Thrissur,2026-08-08 10:00:00,3,312.0,Card,58.0,5.0,Delivered,8,Saturday,10,Dosa Corner,South Indian
+QB1315,C007,R07,Kochi,2026-10-16 17:00:00,6,617.0,Card,,,Cancelled,10,Friday,17,Sweet Tooth,Desserts
+QB1148,C054,R02,Kochi,2026-09-07 19:00:00,3,675.0,Upi,17.0,3.0,Delivered,9,Monday,19,Dosa Corner,South Indian
+QB1041,C063,R05,Kochi,2026-09-15 14:00:00,6,1153.0,Wallet,38.0,1.0,Delivered,9,Tuesday,14,Biryani House,Biryani
+QB1332,C063,R07,Thrissur,2026-08-14 12:00:00,4,857.0,Card,36.0,5.0,Delivered,8,Friday,12,Sweet Tooth,Desserts
+QB1016,C054,R08,Kozhikode,2026-08-11 22:00:00,6,1115.0,Upi,34.5,4.0,Delivered,8,Tuesday,22,Malabar Kitchen,South Indian
+QB1387,C027,R08,Kochi,2026-10-21 20:00:00,2,432.0,Upi,28.0,3.0,Delivered,10,Wednesday,20,Malabar Kitchen,South Indian
+QB1163,C016,R11,Kozhikode,2026-09-24 15:00:00,3,542.0,Card,24.0,3.0,Delivered,9,Thursday,15,Curry Leaf,North Indian
+QB1007,C013,R09,Kochi,2026-08-24 21:00:00,2,363.0,Upi,35.0,4.0,Delivered,8,Monday,21,Burger Lane,Fast Food
+QB1079,C076,R11,Thrissur,2026-09-20 13:00:00,4,827.0,Upi,38.0,3.0,Delivered,9,Sunday,13,Curry Leaf,North Indian
+QB1146,C076,R10,Kochi,2026-09-07 17:00:00,2,327.0,Upi,24.0,5.0,Delivered,9,Monday,17,Noodle Hub,Chinese
+QB1164,C055,R02,Kochi,2026-08-16 19:00:00,4,593.0,Upi,39.0,3.0,Delivered,8,Sunday,19,Dosa Corner,South Indian
+QB1151,C027,R05,Trivandrum,2026-09-14 21:00:00,2,283.0,Upi,35.0,4.0,Delivered,9,Monday,21,Biryani House,Biryani
+QB1396,C013,R03,Kochi,2026-08-24 21:00:00,6,1121.0,Cash,42.0,1.0,Delivered,8,Monday,21,Wok Express,Chinese
+QB1178,C080,R10,Kochi,2026-09-06 14:00:00,4,588.0,Wallet,34.5,5.0,Delivered,9,Sunday,14,Noodle Hub,Chinese
+QB1335,C073,R04,Kochi,2026-10-19 21:00:00,3,360.0,Upi,27.0,4.0,Delivered,10,Monday,21,Pizza Point,Italian
+QB1246,C005,R06,Trivandrum,2026-09-06 14:00:00,4,669.0,Wallet,27.0,3.0,Delivered,9,Sunday,14,Green Bowl,Healthy
+QB1373,C066,R03,Kochi,2026-08-29 15:00:00,4,572.0,Cash,,,Cancelled,8,Saturday,15,Wok Express,Chinese
+QB1174,C009,R03,Trivandrum,2026-10-13 13:00:00,6,1287.0,Cash,39.0,,Delivered,10,Tuesday,13,Wok Express,Chinese
+QB1279,C007,R11,Kochi,2026-09-09 18:00:00,1,201.0,Upi,27.0,4.0,Delivered,9,Wednesday,18,Curry Leaf,North Indian
+QB1076,C044,R03,Kozhikode,2026-09-17 19:00:00,5,937.0,Cash,23.0,5.0,Delivered,9,Thursday,19,Wok Express,Chinese
+QB1183,C042,R08,Trivandrum,2026-09-28 19:00:00,5,504.0,Upi,31.0,5.0,Delivered,9,Monday,19,Malabar Kitchen,South Indian
+QB1320,C046,R03,Kochi,2026-10-15 16:00:00,4,818.0,Wallet,32.0,5.0,Delivered,10,Thursday,16,Wok Express,Chinese
+QB1177,C050,R09,Kochi,2026-10-26 18:00:00,3,337.0,Cash,39.0,5.0,Delivered,10,Monday,18,Burger Lane,Fast Food
+QB1237,C014,R08,Kochi,2026-10-04 20:00:00,4,817.0,Card,38.0,4.0,Delivered,10,Sunday,20,Malabar Kitchen,South Indian
+QB1093,C029,R09,Kozhikode,2026-09-15 15:00:00,6,1258.0,Upi,25.0,4.0,Delivered,9,Tuesday,15,Burger Lane,Fast Food
+QB1168,C050,R05,Thrissur,2026-10-23 19:00:00,1,151.0,Cash,,,Cancelled,10,Friday,19,Biryani House,Biryani
+QB1201,C005,R07,Kochi,2026-08-14 14:00:00,2,390.0,Upi,25.0,1.0,Delivered,8,Friday,14,Sweet Tooth,Desserts
+QB1082,C004,R09,Kochi,2026-08-16 20:00:00,5,668.0,Upi,34.5,4.0,Delivered,8,Sunday,20,Burger Lane,Fast Food
+QB1092,C057,R09,Trivandrum,2026-10-13 16:00:00,1,141.0,Card,45.0,5.0,Delivered,10,Tuesday,16,Burger Lane,Fast Food
+QB1158,C015,R11,Kozhikode,2026-09-17 21:00:00,1,249.0,Wallet,38.0,3.0,Delivered,9,Thursday,21,Curry Leaf,North Indian
+QB1085,C003,R12,Trivandrum,2026-09-26 16:00:00,1,126.0,Upi,21.0,5.0,Delivered,9,Saturday,16,Fresh Juice Bar,Healthy
+QB1191,C072,R11,Kochi,2026-10-20 12:00:00,2,364.0,Upi,34.0,3.0,Delivered,10,Tuesday,12,Curry Leaf,North Indian
+QB1153,C021,R05,Kochi,2026-08-05 14:00:00,6,979.0,Wallet,43.0,4.0,Delivered,8,Wednesday,14,Biryani House,Biryani
+QB1154,C001,R07,Kochi,2026-08-11 21:00:00,4,440.0,Cash,25.0,5.0,Delivered,8,Tuesday,21,Sweet Tooth,Desserts
+QB1130,C070,R03,Kochi,2026-10-26 16:00:00,6,1096.0,Upi,24.0,2.0,Delivered,10,Monday,16,Wok Express,Chinese
+QB1149,C048,R08,Trivandrum,2026-08-07 20:00:00,2,212.0,Upi,27.0,5.0,Delivered,8,Friday,20,Malabar Kitchen,South Indian
+QB1368,C071,R09,Kochi,2026-10-14 12:00:00,1,198.0,Upi,43.0,5.0,Delivered,10,Wednesday,12,Burger Lane,Fast Food
+QB1116,C038,R01,Kozhikode,2026-10-14 15:00:00,5,683.0,Upi,19.0,3.0,Delivered,10,Wednesday,15,Spice Garden,North Indian
+QB1375,C019,R10,Trivandrum,2026-10-23 19:00:00,4,400.0,Cash,,,Cancelled,10,Friday,19,Noodle Hub,Chinese
+QB1262,C052,R10,Kochi,2026-10-21 18:00:00,4,883.0,Cash,40.0,1.0,Delivered,10,Wednesday,18,Noodle Hub,Chinese
+QB1086,C065,R11,Thrissur,2026-08-29 18:00:00,5,751.0,Cash,57.0,1.0,Delivered,8,Saturday,18,Curry Leaf,North Indian
+QB1035,C020,R04,Kozhikode,2026-08-28 13:00:00,4,731.0,Upi,44.0,5.0,Delivered,8,Friday,13,Pizza Point,Italian
+QB1385,C027,R05,Kozhikode,2026-08-27 20:00:00,1,170.0,Upi,42.0,4.0,Delivered,8,Thursday,20,Biryani House,Biryani
+QB1213,C054,R08,Trivandrum,2026-08-06 15:00:00,4,819.0,Upi,32.0,3.0,Delivered,8,Thursday,15,Malabar Kitchen,South Indian
+QB1028,C016,R06,Trivandrum,2026-10-03 12:00:00,3,334.0,Cash,,,Cancelled,10,Saturday,12,Green Bowl,Healthy
+QB1388,C077,R08,Thrissur,2026-09-14 11:00:00,4,453.0,Upi,46.0,5.0,Delivered,9,Monday,11,Malabar Kitchen,South Indian
+QB1391,C040,R09,Kozhikode,2026-10-24 20:00:00,2,358.0,Upi,45.0,5.0,Delivered,10,Saturday,20,Burger Lane,Fast Food
+QB1107,C016,R04,Trivandrum,2026-10-04 19:00:00,1,173.0,Card,41.0,2.0,Delivered,10,Sunday,19,Pizza Point,Italian
+QB1198,C074,R03,Trivandrum,2026-09-22 14:00:00,6,1275.0,Cash,,,Cancelled,9,Tuesday,14,Wok Express,Chinese
+QB1399,C059,R03,Kozhikode,2026-10-26 19:00:00,2,234.0,Upi,27.0,5.0,Delivered,10,Monday,19,Wok Express,Chinese
+QB1302,C059,R01,Kozhikode,2026-08-10 22:00:00,5,862.0,Cash,39.0,3.0,Delivered,8,Monday,22,Spice Garden,North Indian
+QB1029,C039,R11,Kozhikode,2026-10-21 17:00:00,5,616.0,Upi,43.0,,Delivered,10,Wednesday,17,Curry Leaf,North Indian
+QB1011,C015,R02,Kochi,2026-08-17 19:00:00,4,852.0,Upi,,,Cancelled,8,Monday,19,Dosa Corner,South Indian
+QB1142,C021,R01,Trivandrum,2026-08-10 22:00:00,3,663.0,Upi,21.0,4.0,Delivered,8,Monday,22,Spice Garden,North Indian
+QB1329,C009,R05,Trivandrum,2026-10-18 20:00:00,1,213.0,Upi,,,Cancelled,10,Sunday,20,Biryani House,Biryani
+QB1298,C012,R02,Kochi,2026-10-07 11:00:00,6,1305.0,Upi,43.0,4.0,Delivered,10,Wednesday,11,Dosa Corner,South Indian
+QB1067,C030,R08,Trivandrum,2026-09-12 10:00:00,3,456.0,Upi,34.5,4.0,Delivered,9,Saturday,10,Malabar Kitchen,South Indian
+QB1305,C016,R05,Kochi,2026-10-26 19:00:00,4,840.0,Upi,49.0,2.0,Delivered,10,Monday,19,Biryani House,Biryani
+QB1392,C033,R04,Trivandrum,2026-08-23 11:00:00,4,890.0,Upi,31.0,3.0,Delivered,8,Sunday,11,Pizza Point,Italian
+QB1263,C057,R06,Thrissur,2026-10-08 17:00:00,1,155.0,Upi,33.0,4.0,Delivered,10,Thursday,17,Green Bowl,Healthy
+QB1019,C054,R09,Kochi,2026-08-19 11:00:00,3,357.0,Upi,56.0,3.0,Delivered,8,Wednesday,11,Burger Lane,Fast Food
+QB1362,C067,R11,Thrissur,2026-10-27 11:00:00,4,851.0,Cash,,,Cancelled,10,Tuesday,11,Curry Leaf,North Indian
+QB1121,C069,R05,Trivandrum,2026-09-16 17:00:00,1,266.0,Wallet,,,Cancelled,9,Wednesday,17,Biryani House,Biryani
+QB1292,C064,R10,Thrissur,2026-08-26 13:00:00,6,1226.0,Card,47.0,4.0,Delivered,8,Wednesday,13,Noodle Hub,Chinese
+QB1136,C018,R11,Kozhikode,2026-10-20 11:00:00,1,152.0,Cash,38.0,4.0,Delivered,10,Tuesday,11,Curry Leaf,North Indian
+QB1284,C080,R08,Kochi,2026-09-05 10:00:00,3,414.0,Card,44.0,,Delivered,9,Saturday,10,Malabar Kitchen,South Indian
+QB1202,C043,R12,Thrissur,2026-10-08 10:00:00,2,347.0,Cash,15.0,5.0,Delivered,10,Thursday,10,Fresh Juice Bar,Healthy
+QB1084,C077,R08,Kochi,2026-08-08 22:00:00,3,399.0,Card,26.0,3.0,Delivered,8,Saturday,22,Malabar Kitchen,South Indian
+QB1333,C047,R09,Thrissur,2026-08-12 17:00:00,3,487.0,Upi,38.0,5.0,Delivered,8,Wednesday,17,Burger Lane,Fast Food
+QB1113,C067,R10,Kochi,2026-10-10 20:00:00,2,250.0,Upi,42.0,4.0,Delivered,10,Saturday,20,Noodle Hub,Chinese
+QB1378,C016,R07,Kochi,2026-08-07 17:00:00,1,173.0,Card,53.0,5.0,Delivered,8,Friday,17,Sweet Tooth,Desserts
+QB1043,C068,R03,Kochi,2026-10-18 14:00:00,1,243.0,Cash,20.0,4.0,Delivered,10,Sunday,14,Wok Express,Chinese
+QB1289,C079,R02,Kochi,2026-08-31 11:00:00,4,659.0,Cash,16.0,4.0,Delivered,8,Monday,11,Dosa Corner,South Indian
+QB1337,C030,R05,Kozhikode,2026-09-13 22:00:00,6,1186.0,Upi,19.0,5.0,Delivered,9,Sunday,22,Biryani House,Biryani
+QB1319,C018,R03,Kozhikode,2026-09-15 13:00:00,2,300.0,Card,,,Cancelled,9,Tuesday,13,Wok Express,Chinese
+QB1316,C040,R02,Kozhikode,2026-08-10 14:00:00,1,178.0,Cash,17.0,5.0,Delivered,8,Monday,14,Dosa Corner,South Indian
+QB1226,C078,R05,Trivandrum,2026-08-24 11:00:00,6,1315.0,Upi,34.5,5.0,Delivered,8,Monday,11,Biryani House,Biryani
+QB1356,C005,R02,Kochi,2026-10-11 12:00:00,2,309.0,Cash,34.5,4.0,Delivered,10,Sunday,12,Dosa Corner,South Indian
+QB1111,C036,R02,Kozhikode,2026-09-07 10:00:00,3,407.0,Upi,29.0,5.0,Delivered,9,Monday,10,Dosa Corner,South Indian
+QB1033,C067,R08,Kozhikode,2026-10-04 22:00:00,2,350.0,Card,,,Cancelled,10,Sunday,22,Malabar Kitchen,South Indian
+QB1173,C047,R01,Thrissur,2026-08-01 18:00:00,1,160.0,Upi,37.0,5.0,Delivered,8,Saturday,18,Spice Garden,North Indian
+QB1000,C057,R04,Kozhikode,2026-10-21 14:00:00,2,320.0,Upi,27.0,3.0,Delivered,10,Wednesday,14,Pizza Point,Italian
+QB1135,C044,R12,Kochi,2026-10-02 14:00:00,5,888.0,Cash,22.0,4.0,Delivered,10,Friday,14,Fresh Juice Bar,Healthy
+QB1361,C054,R02,Thrissur,2026-08-08 20:00:00,2,474.0,Cash,37.0,5.0,Delivered,8,Saturday,20,Dosa Corner,South Indian
+QB1350,C058,R05,Trivandrum,2026-09-19 22:00:00,1,168.0,Card,37.0,5.0,Delivered,9,Saturday,22,Biryani House,Biryani
+QB1225,C028,R01,Kochi,2026-10-18 11:00:00,6,593.0,Upi,34.5,5.0,Delivered,10,Sunday,11,Spice Garden,North Indian
+QB1390,C004,R10,Kozhikode,2026-10-19 20:00:00,3,390.0,Card,32.0,4.0,Delivered,10,Monday,20,Noodle Hub,Chinese
+QB1190,C068,R04,Thrissur,2026-08-28 16:00:00,5,865.0,Upi,38.0,3.0,Delivered,8,Friday,16,Pizza Point,Italian
+QB1376,C054,R11,Kochi,2026-08-01 20:00:00,4,514.0,Cash,34.5,4.0,Delivered,8,Saturday,20,Curry Leaf,North Indian
+QB1285,C007,R01,Kozhikode,2026-09-22 11:00:00,3,512.0,Upi,28.0,4.0,Delivered,9,Tuesday,11,Spice Garden,North Indian
+QB1326,C076,R02,Thrissur,2026-09-11 22:00:00,5,1052.0,Card,29.0,5.0,Delivered,9,Friday,22,Dosa Corner,South Indian
+QB1243,C079,R08,Kochi,2026-08-30 14:00:00,4,562.0,Card,28.0,4.0,Delivered,8,Sunday,14,Malabar Kitchen,South Indian
+QB1266,C039,R08,Kozhikode,2026-10-09 14:00:00,5,711.0,Card,25.0,4.0,Delivered,10,Friday,14,Malabar Kitchen,South Indian
+QB1383,C075,R06,Thrissur,2026-10-04 13:00:00,4,756.0,Card,34.0,1.0,Delivered,10,Sunday,13,Green Bowl,Healthy
+QB1048,C031,R06,Kochi,2026-10-16 13:00:00,5,827.0,Upi,39.0,4.0,Delivered,10,Friday,13,Green Bowl,Healthy
+QB1204,C065,R05,Kochi,2026-08-02 17:00:00,1,175.0,Cash,25.0,3.0,Delivered,8,Sunday,17,Biryani House,Biryani
+QB1102,C006,R05,Trivandrum,2026-10-14 21:00:00,6,1189.0,Upi,,,Cancelled,10,Wednesday,21,Biryani House,Biryani
+QB1066,C009,R01,Kochi,2026-09-18 14:00:00,3,483.0,Upi,24.0,4.0,Delivered,9,Friday,14,Spice Garden,North Indian
+QB1297,C022,R05,Kozhikode,2026-10-03 16:00:00,2,423.0,Upi,28.0,2.0,Delivered,10,Saturday,16,Biryani House,Biryani
+QB1397,C012,R05,Kochi,2026-09-04 20:00:00,3,554.0,Wallet,23.0,4.0,Delivered,9,Friday,20,Biryani House,Biryani
+QB1340,C010,R05,Trivandrum,2026-09-14 22:00:00,2,339.0,Card,12.0,3.0,Delivered,9,Monday,22,Biryani House,Biryani
+QB1253,C002,R04,Kochi,2026-08-18 18:00:00,3,359.0,Cash,28.0,4.0,Delivered,8,Tuesday,18,Pizza Point,Italian
+QB1215,C002,R12,Kozhikode,2026-09-23 12:00:00,6,1341.0,Upi,,,Cancelled,9,Wednesday,12,Fresh Juice Bar,Healthy
+QB1321,C062,R01,Kochi,2026-08-08 20:00:00,3,405.0,Card,36.0,,Delivered,8,Saturday,20,Spice Garden,North Indian
+QB1161,C006,R02,Thrissur,2026-08-28 17:00:00,2,440.0,Card,,,Cancelled,8,Friday,17,Dosa Corner,South Indian
+QB1087,C045,R10,Trivandrum,2026-09-08 10:00:00,1,204.0,Upi,,,Cancelled,9,Tuesday,10,Noodle Hub,Chinese
+QB1064,C020,R04,Trivandrum,2026-10-22 16:00:00,2,453.0,Card,35.0,5.0,Delivered,10,Thursday,16,Pizza Point,Italian
+QB1210,C065,R05,Kochi,2026-08-11 12:00:00,6,1201.0,Upi,35.0,4.0,Delivered,8,Tuesday,12,Biryani House,Biryani
+QB1157,C002,R09,Trivandrum,2026-08-17 21:00:00,6,879.0,Upi,34.5,3.0,Delivered,8,Monday,21,Burger Lane,Fast Food
+QB1203,C002,R05,Trivandrum,2026-09-16 18:00:00,5,663.0,Cash,29.0,5.0,Delivered,9,Wednesday,18,Biryani House,Biryani
+QB1014,C069,R07,Kozhikode,2026-08-23 22:00:00,2,397.0,Wallet,48.0,4.0,Delivered,8,Sunday,22,Sweet Tooth,Desserts
+QB1112,C045,R08,Thrissur,2026-10-19 15:00:00,5,1009.0,Upi,33.0,5.0,Delivered,10,Monday,15,Malabar Kitchen,South Indian
+QB1371,C026,R11,Trivandrum,2026-09-20 12:00:00,6,965.0,Card,34.0,,Delivered,9,Sunday,12,Curry Leaf,North Indian
+QB1334,C019,R08,Kochi,2026-08-26 13:00:00,5,1075.0,Upi,29.0,5.0,Delivered,8,Wednesday,13,Malabar Kitchen,South Indian
+QB1353,C072,R02,Kochi,2026-08-15 15:00:00,5,822.0,Upi,24.0,5.0,Delivered,8,Saturday,15,Dosa Corner,South Indian
+QB1346,C040,R12,Trivandrum,2026-08-06 19:00:00,6,1194.0,Upi,47.0,5.0,Delivered,8,Thursday,19,Fresh Juice Bar,Healthy
+QB1224,C022,R11,Kochi,2026-08-27 13:00:00,4,815.0,Card,,,Cancelled,8,Thursday,13,Curry Leaf,North Indian
+QB1209,C012,R02,Trivandrum,2026-10-06 17:00:00,3,436.0,Wallet,33.0,4.0,Delivered,10,Tuesday,17,Dosa Corner,South Indian
+QB1176,C053,R11,Thrissur,2026-08-07 11:00:00,3,397.0,Upi,49.0,5.0,Delivered,8,Friday,11,Curry Leaf,North Indian
+QB1306,C045,R01,Kozhikode,2026-09-17 14:00:00,2,402.0,Upi,36.0,4.0,Delivered,9,Thursday,14,Spice Garden,North Indian
+QB1170,C048,R01,Kozhikode,2026-10-02 10:00:00,1,216.0,Card,45.0,2.0,Delivered,10,Friday,10,Spice Garden,North Indian
+QB1169,C043,R11,Kochi,2026-08-30 11:00:00,3,638.0,Cash,,,Cancelled,8,Sunday,11,Curry Leaf,North Indian
+QB1147,C023,R05,Kochi,2026-09-24 13:00:00,1,148.0,Cash,,,Cancelled,9,Thursday,13,Biryani House,Biryani
+QB1061,C012,R02,Kochi,2026-08-15 10:00:00,2,303.0,Upi,35.0,4.0,Delivered,8,Saturday,10,Dosa Corner,South Indian
+QB1230,C069,R06,Kochi,2026-10-07 12:00:00,6,1267.0,Cash,27.0,3.0,Delivered,10,Wednesday,12,Green Bowl,Healthy
+QB1046,C071,R01,Trivandrum,2026-10-13 10:00:00,5,782.0,Upi,20.0,3.0,Delivered,10,Tuesday,10,Spice Garden,North Indian
+QB1240,C010,R05,Thrissur,2026-08-27 17:00:00,6,890.0,Upi,36.0,2.0,Delivered,8,Thursday,17,Biryani House,Biryani
+QB1114,C079,R11,Kochi,2026-09-18 11:00:00,6,740.0,Wallet,43.0,5.0,Delivered,9,Friday,11,Curry Leaf,North Indian
+QB1247,C070,R04,Thrissur,2026-09-26 16:00:00,3,363.0,Cash,42.0,4.0,Delivered,9,Saturday,16,Pizza Point,Italian
+QB1366,C043,R08,Kochi,2026-08-16 15:00:00,2,418.0,Upi,35.0,5.0,Delivered,8,Sunday,15,Malabar Kitchen,South Indian
+QB1108,C070,R02,Trivandrum,2026-10-09 19:00:00,6,696.0,Cash,23.0,4.0,Delivered,10,Friday,19,Dosa Corner,South Indian
+QB1219,C021,R05,Kochi,2026-09-11 16:00:00,2,346.0,Card,46.0,3.0,Delivered,9,Friday,16,Biryani House,Biryani
+QB1290,C047,R05,Kochi,2026-09-09 13:00:00,6,771.0,Card,22.0,4.0,Delivered,9,Wednesday,13,Biryani House,Biryani
+QB1001,C008,R03,Trivandrum,2026-10-23 19:00:00,5,696.0,Wallet,42.0,4.0,Delivered,10,Friday,19,Wok Express,Chinese
+QB1328,C048,R09,Kochi,2026-10-11 11:00:00,2,404.0,Card,35.0,,Delivered,10,Sunday,11,Burger Lane,Fast Food
+QB1040,C077,R04,Kozhikode,2026-10-08 13:00:00,1,216.0,Upi,27.0,4.0,Delivered,10,Thursday,13,Pizza Point,Italian
+QB1024,C005,R02,Kozhikode,2026-10-09 18:00:00,3,602.0,Upi,31.0,5.0,Delivered,10,Friday,18,Dosa Corner,South Indian
+QB1261,C053,R04,Kochi,2026-09-16 14:00:00,2,400.0,Upi,33.0,1.0,Delivered,9,Wednesday,14,Pizza Point,Italian
+QB1239,C027,R09,Kochi,2026-08-18 13:00:00,1,257.0,Cash,23.0,4.0,Delivered,8,Tuesday,13,Burger Lane,Fast Food
+QB1144,C040,R02,Kochi,2026-08-09 15:00:00,3,391.0,Upi,45.0,4.0,Delivered,8,Sunday,15,Dosa Corner,South Indian
+QB1330,C028,R11,Trivandrum,2026-08-26 10:00:00,4,611.0,Card,33.0,4.0,Delivered,8,Wednesday,10,Curry Leaf,North Indian
+QB1128,C068,R05,Trivandrum,2026-10-24 18:00:00,5,545.0,Upi,24.0,4.0,Delivered,10,Saturday,18,Biryani House,Biryani
+QB1186,C053,R09,Trivandrum,2026-08-24 15:00:00,1,142.0,Upi,48.0,5.0,Delivered,8,Monday,15,Burger Lane,Fast Food
+QB1052,C078,R02,Kochi,2026-08-26 19:00:00,4,816.0,Upi,35.0,2.0,Delivered,8,Wednesday,19,Dosa Corner,South Indian
+QB1355,C077,R09,Trivandrum,2026-09-12 10:00:00,2,272.0,Upi,43.0,5.0,Delivered,9,Saturday,10,Burger Lane,Fast Food
+QB1245,C016,R04,Kochi,2026-09-23 14:00:00,5,884.0,Upi,,,Cancelled,9,Wednesday,14,Pizza Point,Italian
+QB1260,C064,R01,Kochi,2026-09-05 14:00:00,6,1212.0,Upi,25.0,5.0,Delivered,9,Saturday,14,Spice Garden,North Indian
+QB1395,C013,R02,Trivandrum,2026-08-01 12:00:00,3,513.0,Cash,16.0,5.0,Delivered,8,Saturday,12,Dosa Corner,South Indian
+QB1278,C019,R12,Trivandrum,2026-08-18 22:00:00,2,426.0,Card,30.0,5.0,Delivered,8,Tuesday,22,Fresh Juice Bar,Healthy
+QB1063,C049,R11,Kozhikode,2026-08-20 11:00:00,2,464.0,Card,23.0,2.0,Delivered,8,Thursday,11,Curry Leaf,North Indian
+QB1182,C007,R08,Thrissur,2026-10-07 20:00:00,2,483.0,Upi,39.0,4.0,Delivered,10,Wednesday,20,Malabar Kitchen,South Indian
+QB1389,C056,R05,Kochi,2026-10-20 22:00:00,3,325.0,Upi,37.0,3.0,Delivered,10,Tuesday,22,Biryani House,Biryani
+QB1205,C001,R08,Kozhikode,2026-08-27 11:00:00,6,1343.0,Upi,28.0,5.0,Delivered,8,Thursday,11,Malabar Kitchen,South Indian
+QB1058,C074,R03,Kochi,2026-09-21 19:00:00,5,1125.0,Card,37.0,5.0,Delivered,9,Monday,19,Wok Express,Chinese
+QB1141,C008,R02,Trivandrum,2026-10-25 13:00:00,1,243.0,Cash,40.0,3.0,Delivered,10,Sunday,13,Dosa Corner,South Indian
+QB1360,C080,R09,Kochi,2026-10-27 22:00:00,3,564.0,Upi,44.0,4.0,Delivered,10,Tuesday,22,Burger Lane,Fast Food
+QB1049,C052,R03,Kochi,2026-08-13 12:00:00,4,519.0,Upi,40.0,3.0,Delivered,8,Thursday,12,Wok Express,Chinese
+QB1312,C051,R03,Trivandrum,2026-10-28 18:00:00,5,693.0,Cash,24.0,5.0,Delivered,10,Wednesday,18,Wok Express,Chinese
+QB1208,C035,R08,Kochi,2026-10-05 20:00:00,3,669.0,Cash,24.0,4.0,Delivered,10,Monday,20,Malabar Kitchen,South Indian
+QB1137,C012,R11,Kochi,2026-09-06 16:00:00,6,1275.0,Card,35.0,5.0,Delivered,9,Sunday,16,Curry Leaf,North Indian
+QB1119,C057,R02,Kochi,2026-10-04 16:00:00,3,496.0,Card,27.0,3.0,Delivered,10,Sunday,16,Dosa Corner,South Indian
+QB1275,C051,R05,Kochi,2026-09-23 15:00:00,5,859.0,Card,,,Cancelled,9,Wednesday,15,Biryani House,Biryani
+QB1227,C033,R07,Kozhikode,2026-09-22 17:00:00,4,519.0,Card,34.0,,Delivered,9,Tuesday,17,Sweet Tooth,Desserts
+QB1129,C003,R01,Kochi,2026-08-26 19:00:00,3,380.0,Card,29.0,4.0,Delivered,8,Wednesday,19,Spice Garden,North Indian
+QB1184,C069,R03,Kochi,2026-08-27 13:00:00,6,800.0,Upi,24.0,5.0,Delivered,8,Thursday,13,Wok Express,Chinese
+QB1214,C043,R01,Trivandrum,2026-10-26 16:00:00,3,627.0,Card,25.0,4.0,Delivered,10,Monday,16,Spice Garden,North Indian
+QB1274,C062,R04,Kochi,2026-10-14 11:00:00,4,622.0,Wallet,19.0,4.0,Delivered,10,Wednesday,11,Pizza Point,Italian
+QB1012,C059,R06,Thrissur,2026-10-17 18:00:00,4,822.0,Upi,47.0,4.0,Delivered,10,Saturday,18,Green Bowl,Healthy
+QB1380,C019,R08,Trivandrum,2026-10-06 11:00:00,5,516.0,Upi,36.0,4.0,Delivered,10,Tuesday,11,Malabar Kitchen,South Indian
+QB1234,C051,R02,Kochi,2026-09-10 10:00:00,1,228.0,Card,44.0,5.0,Delivered,9,Thursday,10,Dosa Corner,South Indian
+QB1318,C066,R03,Kozhikode,2026-09-23 13:00:00,6,1244.0,Upi,27.0,3.0,Delivered,9,Wednesday,13,Wok Express,Chinese
+QB1187,C046,R02,Trivandrum,2026-10-10 16:00:00,2,461.0,Cash,31.0,5.0,Delivered,10,Saturday,16,Dosa Corner,South Indian
+QB1238,C057,R05,Kozhikode,2026-10-19 14:00:00,4,644.0,Cash,50.0,5.0,Delivered,10,Monday,14,Biryani House,Biryani
+QB1384,C058,R04,Thrissur,2026-08-04 12:00:00,6,1194.0,Upi,47.0,4.0,Delivered,8,Tuesday,12,Pizza Point,Italian
+QB1221,C045,R01,Kochi,2026-10-09 19:00:00,1,141.0,Cash,27.0,5.0,Delivered,10,Friday,19,Spice Garden,North Indian
+QB1347,C028,R01,Thrissur,2026-09-27 18:00:00,2,467.0,Upi,48.0,5.0,Delivered,9,Sunday,18,Spice Garden,North Indian
+QB1117,C044,R12,Thrissur,2026-09-27 15:00:00,4,525.0,Upi,39.0,5.0,Delivered,9,Sunday,15,Fresh Juice Bar,Healthy
+QB1248,C078,R08,Thrissur,2026-08-19 14:00:00,1,269.0,Cash,,,Cancelled,8,Wednesday,14,Malabar Kitchen,South Indian
+QB1241,C056,R07,Kochi,2026-08-24 19:00:00,3,602.0,Cash,32.0,1.0,Delivered,8,Monday,19,Sweet Tooth,Desserts
+QB1250,C049,R05,Trivandrum,2026-10-22 18:00:00,6,599.0,Card,27.0,3.0,Delivered,10,Thursday,18,Biryani House,Biryani
+QB1296,C073,R04,Kochi,2026-08-16 16:00:00,4,674.0,Wallet,,,Cancelled,8,Sunday,16,Pizza Point,Italian
+QB1059,C032,R10,Trivandrum,2026-08-02 19:00:00,2,306.0,Card,29.0,3.0,Delivered,8,Sunday,19,Noodle Hub,Chinese
+QB1022,C057,R10,Kochi,2026-09-03 18:00:00,6,1082.0,Upi,46.0,4.0,Delivered,9,Thursday,18,Noodle Hub,Chinese
+QB1065,C017,R08,Kozhikode,2026-08-08 16:00:00,6,735.0,Card,33.0,3.0,Delivered,8,Saturday,16,Malabar Kitchen,South Indian
+QB1125,C003,R02,Trivandrum,2026-09-12 18:00:00,2,318.0,Card,41.0,,Delivered,9,Saturday,18,Dosa Corner,South Indian
+QB1251,C009,R09,Trivandrum,2026-08-02 19:00:00,6,1317.0,Upi,33.0,5.0,Delivered,8,Sunday,19,Burger Lane,Fast Food
+QB1056,C075,R11,Kozhikode,2026-09-07 14:00:00,3,399.0,Upi,43.0,3.0,Delivered,9,Monday,14,Curry Leaf,North Indian
+QB1126,C072,R09,Trivandrum,2026-08-17 18:00:00,3,403.0,Upi,26.0,1.0,Delivered,8,Monday,18,Burger Lane,Fast Food
+QB1348,C034,R02,Trivandrum,2026-09-24 10:00:00,1,243.0,Wallet,42.0,5.0,Delivered,9,Thursday,10,Dosa Corner,South Indian
+QB1382,C012,R12,Trivandrum,2026-08-14 19:00:00,4,709.0,Upi,37.0,2.0,Delivered,8,Friday,19,Fresh Juice Bar,Healthy
